@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "prettier": "prettier --write **/*.tsx",
+    "eslint": "eslint app/*.tsx --fix",
     "prepare": "husky"
   },
   "dependencies": {
